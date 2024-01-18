@@ -55,3 +55,17 @@ Copyright © 1988, 1992, 2001 Adobe Systems Incorporated.  All Rights Reserved.
 License URL: http://www.adobe.com/type/legal.html 
 Source: http://www.adobe.com/type
 -- End of ITC Eras Std Font credits --
+
+Roboto Font
+Copyright 2011 Google Inc. All Rights Reserved. 
+Licensed under the Apache License, Version 2.0 
+License URL: http://www.apache.org/licenses/LICENSE-2.0 
+Source: Google.com
+-- End of Roboto Font credits --
+
+Roboto Condensed Font
+Copyright 2011 Google Inc. All Rights Reserved. 
+Licensed under the Apache License, Version 2.0 
+License URL: http://www.apache.org/licenses/LICENSE-2.0 
+Source: Google.com
+-- End of Roboto Condensed Font credits --
