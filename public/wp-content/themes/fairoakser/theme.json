@@ -1,0 +1,24 @@
+{
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.4/theme.json",
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "ITC Eras Std",
+					"slug": "itc-eras-std",
+					"fontFace": [
+						{
+							"fontFamily": "ITC Eras Std",
+							"fontWeight": "700",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/itc-eras-std_normal_700.otf"
+							]
+						}
+					]
+				}
+			]
+		}
+	}
+}
